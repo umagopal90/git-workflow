@@ -1,0 +1,8 @@
+pseudocode
+{
+main()
+{
+//code
+}
+
+}
